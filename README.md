@@ -23,3 +23,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Projects:</h3>
+
+## Steven(https://apps.apple.com/se/app/steven-gets-you-even/id1152325549?l=en)
+Steven is a cost-sharing app suited for household or travel expenses. Steven issued its own Mastercard last year and I've helped integrate the Apple Pay functionality to Steven Mastercard. I've also worked on improving the Premium offering and integrating 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38229845/225758706-aaa14ad3-fbd3-4dfc-bb0d-18264e9add44.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/38229845/225758818-814024d6-cef6-4e0e-8af5-471c773c47d4.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/38229845/225758875-6af0f2f8-f7f6-4821-8c01-f7409c458575.jpg" width="200"/>
+</p>
+
+**Tech Used**
+- 💿 Core Data, UserDefaults, FileManager
+- 🎨 UIKit (Programmatic & Storyboard)
+- 📬 Alamofire
+- 📦 Cocoapods
+- ⭐️ StoreKit
+- 💳 PassKit
+- 🔥 Firebase
+- 👣 Segment 
+
