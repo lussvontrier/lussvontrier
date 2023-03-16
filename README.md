@@ -26,8 +26,8 @@
 
 <h3 align="left">Projects:</h3>
 
-## Steven(https://apps.apple.com/se/app/steven-gets-you-even/id1152325549?l=en)
-Steven is a cost-sharing app suited for household or travel expenses. Steven issued its own Mastercard last year and I've helped integrate the Apple Pay functionality to Steven Mastercard. I've also worked on improving the Premium offering and integrating 
+## [Steven](https://apps.apple.com/se/app/steven-gets-you-even/id1152325549?l=en)
+Steven is a cost-sharing app suited for household or travel expenses. Steven issued its own Mastercard last year and I've helped on numerous projects including integrating the Apple Pay functionality to Steven Mastercard, improving the Premium offering, integrating third-party offers from companies like Bolt, Nextory and etc.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38229845/225758706-aaa14ad3-fbd3-4dfc-bb0d-18264e9add44.jpg" width="200"/>
@@ -45,3 +45,33 @@ Steven is a cost-sharing app suited for household or travel expenses. Steven iss
 - 🔥 Firebase
 - 👣 Segment 
 
+## oores
+oores was my first project as an iOS developer. I had an idea of creating a map-based social app where friends could see each other on the map, generate meetups as one would order an uber, message each other and meet new people.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38229845/225763531-0d59b8e8-92b5-4a54-81fe-24063c46cba6.jpeg" width="200"/>
+<img src="https://user-images.githubusercontent.com/38229845/225763540-88115de5-101e-4d10-88cc-e04633967e68.jpeg" width="200"/>
+<img src="https://user-images.githubusercontent.com/38229845/225763550-5067d819-3f72-4e4e-a4ea-01acb8f09676.jpeg" width="200"/>
+</p>
+
+**Tech Used**
+- 💿 UserDefaults
+- 🎨 UIKit (Storyboard)
+- 📬 URLSession, GCD
+- 🏎️ Socket.io
+- 📦 Cocoapods
+- 📍 Mapbox
+- 🔥 Firebase
+
+## [UnderlineSegmentedControl](https://github.com/lussvontrier/UnderlineSegmentedControl)
+
+This was my first attempt at creating a custom framework that will work both with CocoaPods and Swift Package Manager. It was needed to create a custom segmented control where both underline and the color of the titles will continuously update while the user drags the screen from left to right. To be able to do this I dug deeper into CALayer and used CAGradientLayer.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38229845/225765117-bdf42a97-60de-4f82-8f87-0844e20cd455.jpeg" width="200"/>
+<img src="https://user-images.githubusercontent.com/38229845/225766875-bc1b9ddb-cddb-47aa-8ab2-c3c8404d5413.gif" width="200"/>
+
+**Tech Used**
+- 📦 Cocoapods
+- 🎁 Swift Package Manager
+- 🎨 UIKit (CAGradientLayer, CALayer)
