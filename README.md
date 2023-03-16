@@ -27,7 +27,7 @@
 <h3 align="left">Projects:</h3>
 
 ## [Steven](https://apps.apple.com/se/app/steven-gets-you-even/id1152325549?l=en)
-Steven is a cost-sharing app suited for household or travel expenses. Steven issued its own Mastercard last year and I've helped on numerous projects including integrating the Apple Pay functionality to Steven Mastercard, improving the Premium offering, integrating third-party offers from companies like Bolt, Nextory and etc.
+Steven is a cost-sharing fintech app suited for household or travel expenses. Steven issued its own Mastercard last year and I've helped on numerous projects including integrating the Apple Pay functionality to Steven Mastercard, improving the Premium offering, integrating third-party offers from companies like Bolt, Nextory and etc.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38229845/225758706-aaa14ad3-fbd3-4dfc-bb0d-18264e9add44.jpg" width="200"/>
@@ -75,3 +75,24 @@ This was my first attempt at creating a custom framework that will work both wit
 - 📦 Cocoapods
 - 🎁 Swift Package Manager
 - 🎨 UIKit (CAGradientLayer, CALayer)
+  
+## [Algorithms and Data Structures](https://github.com/lussvontrier/AlgorithmsAndDataStructures-Swift)
+
+I was reading the Algorithms and Data Structures in Swift book and implemented all the challenges in this repo. It also includes some leetcode challenges. Actively working on this 😃
+
+**Data Structures**
+- 📦 Stacks
+- 📦 LinkedList
+- 📦 Queues
+- 📦 Trees
+- 📦 Binary Trees
+- 📦 Heaps
+
+**Algorithms**
+- 𝒇 Insertion Sort
+- 𝒇 Selection Sort
+- 𝒇 Bubble Sort
+- 𝒇 QuickSort
+- 𝒇 MergeSort
+- 𝒇 HeapSort
+
