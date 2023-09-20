@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Steven](https://apps.apple.com/se/app/steven-gets-you-even/id1152325549?l=en)
 
-- 🌱 I’m currently learning **Combine, SwiftUI**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I've created a custom segmented control [UnderlineSegmentedControl](https://github.com/lussvontrier/UnderlineSegmentedControl)
 
