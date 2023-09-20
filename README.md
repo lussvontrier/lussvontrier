@@ -26,6 +26,20 @@
 
 <h3 align="left">Projects:</h3>
 
+## [Consent](https://github.com/lussvontrier/Consent)
+Consent is an app that lets 2 users swipe on different movies until they find a match to watch. It was my first attempt at tackling SwiftUI almost a year ago. First I built it with MVVM, then after browsing some articles and listening to advice I switched it to redux. It is quiet challenging doing redux with Async/Aawait as redux is more comfortable with Combine or other reactive frameworks. But I am using this project for learning, so it's a bit messy.
+
+<p align="center">
+<img src="https://github.com/lussvontrier/lussvontrier/assets/38229845/fabf9032-bd83-4e6a-8cbb-4df4b7a07ea8.jpg" width="200"/>
+<img src="https://github.com/lussvontrier/lussvontrier/assets/38229845/30cb8a0f-8cca-42b5-996d-3a52f20af796.jpg" width="200"/>
+<img src="https://github.com/lussvontrier/UnderlineSegmentedControl/assets/38229845/e9c434e1-503c-4d96-9fe3-ba8d8466cce4.gif" width="200"/>
+</p>
+
+**Tech Used**
+- 🎨 SwiftUI
+- 📬 Async/Await
+- 🔥 Firebase Firestore
+
 ## [Steven](https://apps.apple.com/se/app/steven-gets-you-even/id1152325549?l=en)
 Steven is a cost-sharing fintech app suited for household or travel expenses. Steven issued its own Mastercard last year and I've helped on numerous projects including integrating the Apple Pay functionality to Steven Mastercard, improving the Premium offering, integrating third-party offers from companies like Bolt, Nextory and etc.
 
