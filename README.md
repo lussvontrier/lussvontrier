@@ -1,5 +1,4 @@
 <h1 align="center">hi 👋, i'm lusine</h1>
-<h3 align="center">a curious 🧐 iOS developer from Armenia</h3>
 
 <p align="left"> <a href="https://twitter.com/lussvontrier" target="blank"><img src="https://img.shields.io/twitter/follow/lussvontrier?logo=twitter&style=for-the-badge" alt="lussvontrier" /></a> </p>
 
