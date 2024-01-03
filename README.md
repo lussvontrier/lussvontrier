@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm lusine, an iOS engineer learning python</h1>
+<h1 align="center">hi 👋, i'm lusine, an iOS engineer learning backend dev with python</h1>
 
 <p align="left"> <a href="https://twitter.com/lussvontrier" target="blank"><img src="https://img.shields.io/twitter/follow/lussvontrier?logo=twitter&style=for-the-badge" alt="lussvontrier" /></a> </p>
 
